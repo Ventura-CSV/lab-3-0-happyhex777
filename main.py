@@ -1,9 +1,13 @@
 def main():
     ##################################################
     # Comlete your code here
+    
     ##################################################
     number = int(input('Enter your input: '))
-
+    if number%2 == 0: 
+        result=0
+    else:
+        result=1
     """
     Make your code here
     """
